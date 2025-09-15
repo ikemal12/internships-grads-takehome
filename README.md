@@ -83,7 +83,7 @@ fairly!
 Please also attach a (maximum) 5-minute Loom explaining:
 1. Overview of your solution
 2. Key technical decisions
-3. Trade-offs and alternatives
+3. Trade-offs and alternatives (what would you do differently next time?)
 4. Final reflection (what did you find challenging/interesting/tricky?)
 
 ## 2. Complete our take-home challenge
@@ -219,5 +219,5 @@ includes:
 Please also attach a (maximum) 5-minute Loom explaining:
 1. Overview of your solution
 2. Key technical decisions
-3. Trade-offs and alternatives
+3. Trade-offs and alternatives (what would you do differently next time?)
 4. Final reflection (what did you find challenging/interesting/tricky?)
