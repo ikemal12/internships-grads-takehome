@@ -24,9 +24,9 @@ We're looking for candidates that:
   recognisable names in tech: OpenAI, Netflix, Lovable, Linear and more that we
   can't share yet!
 
-We're not looking candidates that are:
+We're not looking candidates that:
 
-- Looking for an 'intern' project: this placement will have you doing
+- Are looking for an 'intern' project: this placement will have you doing
   real work and we'll make little distinction between an intern and a fulltime
   engineering hire.
 - Don't enjoy learning new technologies by 'doing': we expect engineers to
